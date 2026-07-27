@@ -1,0 +1,22 @@
+/* Code by Anom Meshram
+Class: SY CSE, Div: B, RollNo: 21 */
+
+// Program to calculate gross salary
+
+#include <iostream>
+using namespace std;
+
+int main() {
+    float salary, bonus, grossSalary;
+
+    cout << "Enter Basic Salary: ";
+    cin >> salary;
+
+    bonus = salary * 0.60;
+    grossSalary = salary + bonus;
+
+    cout << "Bonus = " << bonus << endl;
+    cout << "Gross Salary = " << grossSalary;
+
+    return 0;
+}

@@ -1,0 +1,31 @@
+/* Code by Anom Meshram
+Class: SY CSE, Div: B, RollNo: 21 */
+
+// Program to display a quadratic equation based on user input
+
+#include <iostream>
+using namespace std;
+
+int main() {
+    int a, b, c;
+
+    cout << "Enter coefficients a, b and c: ";
+    cin >> a >> b >> c;
+
+    cout << "Quadratic Equation is: ";
+    cout << a << "x^2 ";
+
+    if (b >= 0)
+        cout << "+ " << b << "x ";
+    else
+        cout << "- " << -b << "x ";
+
+    if (c >= 0)
+        cout << "+ " << c;
+    else
+        cout << "- " << -c;
+
+    cout << " = 0";
+
+    return 0;
+}
