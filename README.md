@@ -1,4 +1,5 @@
-# College Work
+# College Work <!-- <img src="https://mitwpu.edu.in/assets/frontend/images/mit-wpu_logo.png" width = 180, align = right> -->
+
 
 This is kind of a flow chart of this repo.
 ```bash
