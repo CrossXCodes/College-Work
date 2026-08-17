@@ -1,6 +1,8 @@
 /* Code by Anom Meshram
 Class: SY CSE, Div: B, RollNo: 21 */
 
+// Program to find maximum AND value of an array
+
 #include <stdio.h>
 
 void main() {
