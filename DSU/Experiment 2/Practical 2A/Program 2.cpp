@@ -1,6 +1,8 @@
 /* Code by Anom Meshram
 Class: SY CSE, Div: B, RollNo: 21 */
 
+// Program to count number of bits set to 1 in a number
+
 #include <iostream>
 using namespace std;
 int main() {

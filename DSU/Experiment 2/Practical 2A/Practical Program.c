@@ -1,6 +1,8 @@
 /* Code by Anom Meshram
 Class: SY CSE, Div: B, RollNo: 21 */
 
+// Program to check whether a nth bit is set or not
+
 #include <stdio.h>
 
 int main() {
