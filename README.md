@@ -16,7 +16,7 @@ A GitHub Repository For College Practicals <br>
           [Practical Program = Practical Program (Self Explanatory)]
 
   > JS : JavaScript
-
+         - Each JavaScript File Has Its Own HTML File
 
 > Note: All The Comments About The Code, After My Name And Other Information Are By AI
         "AI Was Just Used To Make Code More Presentable!"
