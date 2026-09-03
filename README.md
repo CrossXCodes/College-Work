@@ -7,7 +7,12 @@ This is kind of a flow chart of this repo.
 > Second Year
  > First Sem
   > OOP : Object Oriented Programming Using C++
+          [Practical & Exercises Program = Program]
+
   > DSU : Data Structure Using C
+          [Exercises Program = Program]
+          [Practical Program = Practical Program (Self Explanatory)]
+
   > JS : JavaScript
 
 ```
