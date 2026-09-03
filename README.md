@@ -1,8 +1,10 @@
 # College Work <!-- <img src="https://mitwpu.edu.in/assets/frontend/images/mit-wpu_logo.png" width = 180, align = right> -->
 
 
-This is kind of a flow chart of this repo.
+A GitHub Repository For College Practicals <br>
 ```bash
+
+"This Is Kind Of A Flow Chart Of This GitHub Repo."
 
 > Second Year
  > First Sem
