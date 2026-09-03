@@ -15,4 +15,7 @@ This is kind of a flow chart of this repo.
 
   > JS : JavaScript
 
+> Note: All The Comments About The Code, After My Name And Other Information Are By AI
+        "AI Was Just Used To Make Code More Presentable!"
+
 ```
